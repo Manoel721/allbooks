@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # AllBooks 22222222 8888 testando
+=======
+# AllBooks 000000000000   1226
+>>>>>>> 8688b611e80d5617200ee92e6493cbcaeda20005
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
